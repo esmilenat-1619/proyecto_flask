@@ -10,3 +10,4 @@ requests>=2.27.1
 python-dotenv>=0.20.0
 psycopg2-binary>=2.9.3  # si usas PostgreSQL
 pymysql>=1.0.2          # si usas MySQL
+Streamlit>=1.55.0
